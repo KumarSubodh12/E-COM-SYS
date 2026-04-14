@@ -7,7 +7,7 @@ Designed with a premium glassmorphism UI, smooth animations, and interactive fea
 
 ## 🌐 Live Demo
 
-👉 https://kumarsubodh12.github.io/ecommerce-site/
+👉 [https://kumarsubodh12.github.io/ecommerce-site/](https://kumarsubodh12.github.io/E-COM-SYS/)
 
 ---
 
